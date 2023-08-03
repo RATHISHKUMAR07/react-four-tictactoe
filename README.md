@@ -1,2 +1,2 @@
 # four-tictactoe
-In this repository created react app play a tic tac toe game.
+In this repository created react app for playing a tic tac toe game.
